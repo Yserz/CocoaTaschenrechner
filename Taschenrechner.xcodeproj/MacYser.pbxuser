@@ -1,0 +1,179 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 653851791316925100775D00 /* Taschenrechner */;
+		activeTarget = 8D1107260486CEB800E47090 /* Taschenrechner */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Taschenrechner */,
+		);
+		codeSenseManager = 6538518D1316925300775D00 /* Code sense */;
+		executables = (
+			653851791316925100775D00 /* Taschenrechner */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					369,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320314386;
+			PBXWorkspaceStateSaveDate = 320314386;
+		};
+		perUserProjectItems = {
+			65A0BFC713179FCE0087AB5B /* PBXTextBookmark */ = 65A0BFC713179FCE0087AB5B /* PBXTextBookmark */;
+			65A0BFE01317B5640087AB5B /* PBXTextBookmark */ = 65A0BFE01317B5640087AB5B /* PBXTextBookmark */;
+			65A0BFED1317B86A0087AB5B /* PBXTextBookmark */ = 65A0BFED1317B86A0087AB5B /* PBXTextBookmark */;
+			65A0BFF81317B9300087AB5B /* PBXTextBookmark */ = 65A0BFF81317B9300087AB5B /* PBXTextBookmark */;
+			65A0C0981317CE400087AB5B /* PBXTextBookmark */ = 65A0C0981317CE400087AB5B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6538518C1316925300775D00 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	653851791316925100775D00 /* Taschenrechner */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Taschenrechner;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6538518C1316925300775D00 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6538518D1316925300775D00 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6538519013169E8900775D00 /* TaschenrechnerController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {547, 475}}";
+			sepNavSelRange = "{755, 45}";
+			sepNavVisRange = "{0, 806}";
+		};
+	};
+	6538519113169E8900775D00 /* TaschenrechnerController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 1781}}";
+			sepNavSelRange = "{946, 0}";
+			sepNavVisRange = "{1185, 382}";
+		};
+	};
+	6538519313169E9A00775D00 /* TaschenrechnerModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {547, 475}}";
+			sepNavSelRange = "{529, 17}";
+			sepNavVisRange = "{0, 553}";
+		};
+	};
+	6538519413169E9A00775D00 /* TaschenrechnerModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 832}}";
+			sepNavSelRange = "{428, 0}";
+			sepNavVisRange = "{538, 270}";
+		};
+	};
+	65A0BFC713179FCE0087AB5B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6538519313169E9A00775D00 /* TaschenrechnerModel.h */;
+		name = "TaschenrechnerModel.h: 28";
+		rLen = 17;
+		rLoc = 529;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 0;
+	};
+	65A0BFE01317B5640087AB5B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6538519413169E9A00775D00 /* TaschenrechnerModel.m */;
+		name = "TaschenrechnerModel.m: 24";
+		rLen = 0;
+		rLoc = 428;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 221;
+	};
+	65A0BFED1317B86A0087AB5B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6538519013169E8900775D00 /* TaschenrechnerController.h */;
+		name = "TaschenrechnerController.h: 27";
+		rLen = 45;
+		rLoc = 755;
+		rType = 0;
+		vrLen = 806;
+		vrLoc = 0;
+	};
+	65A0BFF81317B9300087AB5B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6538519113169E8900775D00 /* TaschenrechnerController.m */;
+		name = "TaschenrechnerController.m: 131";
+		rLen = 0;
+		rLoc = 3729;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 2142;
+	};
+	65A0C0981317CE400087AB5B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6538519113169E8900775D00 /* TaschenrechnerController.m */;
+		name = "TaschenrechnerController.m: 43";
+		rLen = 0;
+		rLoc = 946;
+		rType = 0;
+		vrLen = 1018;
+		vrLoc = 593;
+	};
+	8D1107260486CEB800E47090 /* Taschenrechner */ = {
+		activeExec = 0;
+		executables = (
+			653851791316925100775D00 /* Taschenrechner */,
+		);
+	};
+}

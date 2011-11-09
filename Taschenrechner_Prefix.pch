@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Taschenrechner' target in the 'Taschenrechner' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

@@ -1,0 +1,264 @@
+TTaschenrechner
+v7
+r0
+t320250907.213488
+cCheck dependencies
+cProcessInfoPlistFile /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Info.plist Taschenrechner-Info.plist
+cCopyStringsFile /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/tO/tOXAs-LBF-i9chcVGhIqJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taschenrechner_Prefix-asqshohgpckjugewrlklgrukerni/Taschenrechner_Prefix.pch.gch Taschenrechner_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/main.o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerAppDelegate.o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerController.o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerModel.o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerModel.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5ECFBD00000000000000EE
+t1298059197
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/English.lproj/InfoPlist.strings
+c000000004D665AD1000000000000002D
+t1298553553
+s45
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/English.lproj/MainMenu.xib
+c000000004D6669E50000000000039904
+t1298557413
+s235780
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerAppDelegate.h
+c000000004D665AD1000000000000014C
+t1298553553
+s332
+i<Cocoa/Cocoa.h>
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerAppDelegate.m
+c000000004D665AD10000000000000188
+t1298553553
+s392
+i"TaschenrechnerAppDelegate.h"
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.h
+c000000004D666A2300000000000002A7
+t1298557475
+s679
+i<Foundation/Foundation.h>
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m
+c000000004D666C940000000000000336
+t1298558100
+s822
+i"TaschenrechnerController.h"
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerModel.h
+c000000004D66671A00000000000000EF
+t1298556698
+s239
+i<Foundation/Foundation.h>
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerModel.m
+c000000004D66671A00000000000000E2
+t1298556698
+s226
+i"TaschenrechnerModel.h"
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/Taschenrechner_Prefix.pch
+c000000004D665AD1000000000000009F
+t1298553553
+s159
+i<Cocoa/Cocoa.h>
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app
+t2
+s0
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Info.plist
+t1298558102
+s907
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/MacOS/Taschenrechner
+t2
+s0
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/PkgInfo
+t1298558102
+s8
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1298558102
+s92
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Resources/English.lproj/MainMenu.nib
+t1298558102
+s44840
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/Taschenrechner.LinkFileList
+c000000004D666C960000000000000260
+t1298558102
+s608
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerAppDelegate.o
+t1298558107
+s21312
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerController.o
+t2
+s0
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerModel.o
+t1298558107
+s5548
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/main.o
+t1298558107
+s5024
+
+N/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/main.m
+c000000004D665AD10000000000000100
+t1298553553
+s256
+i<Cocoa/Cocoa.h>
+
+N/var/folders/tO/tOXAs-LBF-i9chcVGhIqJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taschenrechner_Prefix-asqshohgpckjugewrlklgrukerni/Taschenrechner_Prefix.pch.gch
+t1298558106
+s54306576
+
+NTaschenrechner-Info.plist
+c000000004D665AD100000000000003EA
+t1298553553
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320250902#320250902#0(0"0(0#1#0"8658394208#0"0#
+
+CCompileC build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerAppDelegate.o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320250906.804383
+e320250907.050683
+r1
+xCompileC
+xbuild/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerAppDelegate.o
+x/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerAppDelegate.m320250906#320250907#0(0"0(0#0#82"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerAppDelegate.m8613795936#1808"    cd /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-generated-files.hmap -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-own-target-headers.hmap -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-all-target-headers.hmap -iquote /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-project-headers.hmap -F/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/include -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/DerivedSources/x86_64 -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/DerivedSources -include /var/folders/tO/tOXAs-LBF-i9chcVGhIqJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taschenrechner_Prefix-asqshohgpckjugewrlklgrukerni/Taschenrechner_Prefix.pch -c /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerAppDelegate.m -o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerAppDelegate.o0#
+
+CCompileC build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerController.o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320250907.050777
+e320250907.213422
+r0
+xCompileC
+xbuild/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerController.o
+x/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m: In function '-[TaschenrechnerController pushDigit:]':
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:28: error: void value not ignored as it ought to be
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:28: error: expected ',' or ';' before '}' token
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:30: error: 'pushDivision' undeclared (first use in this function)
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:30: error: (Each undeclared identifier is reported only once
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:30: error: for each function it appears in.)
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:30: error: expected ';' before ':' token
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: error: expected declaration or statement at end of input
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:26: warning: unused variable 'newValue'
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m: At top level:
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: '@end' missing in implementation context
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: incomplete implementation of class 'TaschenrechnerController'
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: method definition for '-pushPlus:' not found
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: method definition for '-pushMultiplication:' not found
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: method definition for '-pushMinus:' not found
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: method definition for '-pushEqual:' not found
+o/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: method definition for '-pushDivision:' not found
+lSLF07#2@89"Compile /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250907#320250907#0(2313"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m: In function '-[TaschenrechnerController pushDigit:]':/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:28: error: void value not ignored as it ought to be/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:28: error: expected ',' or ';' before '}' token/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:30: error: 'pushDivision' undeclared (first use in this function)/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:30: error: (Each undeclared identifier is reported only once/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:30: error: for each function it appears in.)/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:30: error: expected ';' before ':' token/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: error: expected declaration or statement at end of input/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:26: warning: unused variable 'newValue'/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m: At top level:/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: '@end' missing in implementation context/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: incomplete implementation of class 'TaschenrechnerController'/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: method definition for '-pushPlus:' not found/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: method definition for '-pushMultiplication:' not found/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: method definition for '-pushMinus:' not found/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: method definition for '-pushEqual:' not found/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m:49: warning: method definition for '-pushDivision:' not found14(4@40"Void value not ignored as it ought to be320250907#137#134#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#28#0#28#0#40"void value not ignored as it ought to be0(4@36"Expected ',' or ';' before '}' token320250907#271#130#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#28#0#28#0#19"expected * before *0(4@54"'pushDivision' undeclared (first use in this function)320250907#401#148#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#30#0#30#0#43"'*' undeclared (first use in this function)0(4@29"Expected ';' before ':' token320250907#819#123#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#30#0#30#0#19"expected * before *0(4@49"Expected declaration or statement at end of input320250907#942#143#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#49#0#49#0#49"expected declaration or statement at end of input0(22@26"Unused variable 'newValue'320250907#1085#122#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#26#0#26#0#19"unused variable '*'0(23@13"At top level:320250907#1207#97#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#0#0#0#0#0"0(22@40"'@end' missing in implementation context320250907#1304#136#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#49#0#49#0#40"'@end' missing in implementation context0(22@61"Incomplete implementation of class 'TaschenrechnerController'320250907#1440#157#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#49#0#49#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-pushPlus:' not found320250907#1597#140#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#49#0#49#0#35"method definition for '*' not found0(22@54"Method definition for '-pushMultiplication:' not found320250907#1737#150#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#49#0#49#0#35"method definition for '*' not found0(22@45"Method definition for '-pushMinus:' not found320250907#1887#141#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#49#0#49#0#35"method definition for '*' not found0(22@45"Method definition for '-pushEqual:' not found320250907#2028#141#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#49#0#49#0#35"method definition for '*' not found0(22@48"Method definition for '-pushDivision:' not found320250907#2169#144#0(6@81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m320250900#49#0#49#0#35"method definition for '*' not found0(0#0#81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m8658503520#1806"    cd /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-generated-files.hmap -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-own-target-headers.hmap -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-all-target-headers.hmap -iquote /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-project-headers.hmap -F/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/include -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/DerivedSources/x86_64 -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/DerivedSources -include /var/folders/tO/tOXAs-LBF-i9chcVGhIqJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taschenrechner_Prefix-asqshohgpckjugewrlklgrukerni/Taschenrechner_Prefix.pch -c /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerController.m -o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerController.o1#
+
+CCompileC build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerModel.o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerModel.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320250907.051751
+e320250907.188051
+r1
+xCompileC
+xbuild/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerModel.o
+x/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerModel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerModel.m320250907#320250907#0(0"0(0#0#76"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerModel.m8658183968#1796"    cd /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-generated-files.hmap -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-own-target-headers.hmap -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-all-target-headers.hmap -iquote /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-project-headers.hmap -F/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/include -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/DerivedSources/x86_64 -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/DerivedSources -include /var/folders/tO/tOXAs-LBF-i9chcVGhIqJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taschenrechner_Prefix-asqshohgpckjugewrlklgrukerni/Taschenrechner_Prefix.pch -c /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/TaschenrechnerModel.m -o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/TaschenrechnerModel.o0#
+
+CCompileC build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/main.o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320250906.803508
+e320250907.051693
+r1
+xCompileC
+xbuild/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/main.o
+x/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/main.m320250906#320250907#0(0"0(0#0#61"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/main.m8618770624#1766"    cd /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-generated-files.hmap -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-own-target-headers.hmap -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-all-target-headers.hmap -iquote /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-project-headers.hmap -F/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/include -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/DerivedSources/x86_64 -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/DerivedSources -include /var/folders/tO/tOXAs-LBF-i9chcVGhIqJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taschenrechner_Prefix-asqshohgpckjugewrlklgrukerni/Taschenrechner_Prefix.pch -c /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/main.m -o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/English.lproj/MainMenu.xib
+s320250902.660568
+e320250903.045751
+r1
+xCompileXIB
+x/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib320250902#320250903#0(0"0(0#0#81"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/English.lproj/MainMenu.xib8618632576#419"    cd /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Resources/English.lproj/MainMenu.nib /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s320250902.626227
+e320250902.954266
+r1
+xCopyStringsFile
+x/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings320250902#320250902#0(0"0(0#0#86"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/English.lproj/InfoPlist.strings8650373568#404"    cd /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Resources/English.lproj0#
+
+CLd /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/MacOS/Taschenrechner normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Info.plist Taschenrechner-Info.plist
+s320250902.621647
+e320250902.626153
+r1
+xProcessInfoPlistFile
+x/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Info.plist
+xTaschenrechner-Info.plist
+lSLF07#2@33"Process Taschenrechner-Info.plist320250902#320250902#0(0"0(0#0#80"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/Taschenrechner-Info.plist8618783264#379"    cd /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner    builtin-infoPlistUtility Taschenrechner-Info.plist -genpkginfo /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/tO/tOXAs-LBF-i9chcVGhIqJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taschenrechner_Prefix-asqshohgpckjugewrlklgrukerni/Taschenrechner_Prefix.pch.gch Taschenrechner_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s320250903.045852
+e320250906.803285
+r1
+xProcessPCH
+x/var/folders/tO/tOXAs-LBF-i9chcVGhIqJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taschenrechner_Prefix-asqshohgpckjugewrlklgrukerni/Taschenrechner_Prefix.pch.gch
+xTaschenrechner_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile Taschenrechner_Prefix.pch320250903#320250906#0(0"0(0#0#80"/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/Taschenrechner_Prefix.pch8660026592#1649"    cd /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-generated-files.hmap -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-own-target-headers.hmap -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-all-target-headers.hmap -iquote /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/Taschenrechner-project-headers.hmap -F/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/include -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/DerivedSources/x86_64 -I/Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Taschenrechner.build/Debug/Taschenrechner.build/DerivedSources -c /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/Taschenrechner_Prefix.pch -o /var/folders/tO/tOXAs-LBF-i9chcVGhIqJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Taschenrechner_Prefix-asqshohgpckjugewrlklgrukerni/Taschenrechner_Prefix.pch.gch0#
+
+CTouch /Users/MacYser/Documents/XCodeWorkspace/Taschenrechner/build/Debug/Taschenrechner.app
+r0
+
